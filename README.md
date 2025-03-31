@@ -14,5 +14,6 @@
 ## 🌐 Me encontre por aqui!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lulisfeliw)
 
+> "A persistência leva ao sucesso"
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
