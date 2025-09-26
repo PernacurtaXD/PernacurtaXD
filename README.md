@@ -2,7 +2,7 @@
 
 ##Sobre mim
 - 💻 Estou cursando o curso de Desenvolvimento de Sistemas no SENAI
-- 📚 Estudando bastante **C, C++, Java, Python**
+- 📚 Estudando bastante **C, C++, Java, Python, React, Spring Boot**
 - 🎨 Gosto de desenhar no meu tempo livre
 - 🏋️‍♂️ Também pratico exercício físico regurlamente
 
