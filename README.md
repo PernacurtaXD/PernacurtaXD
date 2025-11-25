@@ -2,7 +2,7 @@
 
 ### 💻 Sobre mim
 Sou estudante de **Desenvolvimento de Sistemas** no SENAI e apaixonado por tecnologia.  
-Atualmente estou focado em aprimorar minhas habilidades tanto no **Back-end** quanto no **Front-end**, sempre buscando evoluir e criar projetos cada vez melhores.
+Atualmente estou focado em aprimorar minhas habilidades no **Back-end**, sempre buscando evoluir e criar projetos cada vez melhores.
 
 ---
 
@@ -52,6 +52,6 @@ Atualmente estou focado em aprimorar minhas habilidades tanto no **Back-end** qu
 
 <div align="center">
   
-![Coding](https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif)
+![Coding](![https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG04NWprNWJxejNpaTB3Z3p6djZrMXRnZWt1OGN2YjB1bzA5Ym11byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIqmM5tTjmpOB9mpbn/giphy.gif))
 
 </div>
