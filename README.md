@@ -38,9 +38,9 @@ Atualmente estou focado em aprimorar minhas habilidades no **Back-end**, sempre 
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=PernacurtaXD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PernacurtaXD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=PernacurtaXD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PernacurtaXD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
