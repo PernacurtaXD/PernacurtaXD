@@ -35,8 +35,8 @@ Atualmente estou focado em aprimorar minhas habilidades no **Back-end**, sempre 
 
 ---
 
-<div align="center">
 ## 📊 Estatísticas do GitHub
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PernacurtaXD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
@@ -48,11 +48,11 @@ Atualmente estou focado em aprimorar minhas habilidades no **Back-end**, sempre 
 ---
 
 ## 🌐 Onde me encontrar  
-<div align="center">
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lulisfeliw)
 
-</div>
+
 
 ---
 
