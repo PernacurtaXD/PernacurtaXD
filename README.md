@@ -48,7 +48,11 @@ Atualmente estou focado em aprimorar minhas habilidades no **Back-end**, sempre 
 ---
 
 ## 🌐 Onde me encontrar  
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lulisfeliw)
+
+</div>
 
 ---
 
